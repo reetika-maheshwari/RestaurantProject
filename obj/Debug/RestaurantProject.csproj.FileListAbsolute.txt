@@ -1,0 +1,89 @@
+D:\Align Projects\RestaurantManagement\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+D:\Align Projects\RestaurantManagement\RestaurantProject\bin\Debug\RestaurantProject.exe
+D:\Align Projects\RestaurantManagement\RestaurantProject\bin\Debug\RestaurantProject.pdb
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.csproj.AssemblyReference.cache
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.MainMDIForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.cache
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.csproj.CoreCompileInputs.cache
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.exe
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.pdb
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.foods_UC.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.StaffForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.MenuForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.BurgersForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.PavForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.AboutUsForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.ContactUsForm.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.Report.resources
+D:\Align Projects\RestaurantManagement\RestaurantProject\obj\Debug\RestaurantProject.ReportForm.resources
+D:\project\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+D:\project\RestaurantProject\bin\Debug\RestaurantProject.exe
+D:\project\RestaurantProject\bin\Debug\RestaurantProject.pdb
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.AboutUsForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.ContactUsForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.MenuForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.Report.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.StaffForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.cache
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.csproj.CoreCompileInputs.cache
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.exe
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.pdb
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.AboutForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.TableForm.resources
+D:\project\RestaurantProject\bin\Debug\BouncyCastle.Crypto.xml
+D:\project\RestaurantProject\bin\Debug\Google.Protobuf.xml
+D:\project\RestaurantProject\bin\Debug\K4os.Compression.LZ4.xml
+D:\project\RestaurantProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\project\RestaurantProject\bin\Debug\K4os.Hash.xxHash.xml
+D:\project\RestaurantProject\bin\Debug\MySql.Data.xml
+D:\project\RestaurantProject\bin\Debug\System.Buffers.xml
+D:\project\RestaurantProject\bin\Debug\System.Memory.xml
+D:\project\RestaurantProject\bin\Debug\System.Numerics.Vectors.xml
+D:\project\RestaurantProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.csproj.CopyComplete
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.ListForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.OrderFood.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.HomeNew.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.BaseForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.ChildForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.csproj.AssemblyReference.cache
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.FrmRegister.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.LogInForm.resources
+D:\project\RestaurantProject\bin\Debug\Microsoft.Win32.Registry.xml
+D:\project\RestaurantProject\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\project\RestaurantProject\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\project\RestaurantProject\bin\Debug\Newtonsoft.Json.xml
+D:\project\RestaurantProject\bin\Debug\RestSharp.xml
+D:\project\RestaurantProject\bin\Debug\System.CodeDom.xml
+D:\project\RestaurantProject\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\project\RestaurantProject\bin\Debug\System.Data.Odbc.xml
+D:\project\RestaurantProject\bin\Debug\System.Data.OleDb.xml
+D:\project\RestaurantProject\bin\Debug\System.Data.SqlClient.xml
+D:\project\RestaurantProject\bin\Debug\System.Diagnostics.EventLog.xml
+D:\project\RestaurantProject\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\project\RestaurantProject\bin\Debug\System.Drawing.Common.xml
+D:\project\RestaurantProject\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\project\RestaurantProject\bin\Debug\System.IO.Packaging.xml
+D:\project\RestaurantProject\bin\Debug\System.IO.Ports.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.AccessControl.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.Permissions.xml
+D:\project\RestaurantProject\bin\Debug\System.Security.Principal.Windows.xml
+D:\project\RestaurantProject\bin\Debug\System.ServiceModel.Syndication.xml
+D:\project\RestaurantProject\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\project\RestaurantProject\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\project\RestaurantProject\bin\Debug\System.Threading.AccessControl.xml
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.csproj.Fody.CopyLocal.cache
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.ForgotPasswordForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.ChangePasswardForm.resources
+D:\project\RestaurantProject\bin\Debug\AdvancedDataGridView.xml
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.csproj.ResolveComReference.cache
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.ReportFilterForm.resources
+D:\project\RestaurantProject\obj\Debug\RestaurantProject.MainDashboardUI.resources
